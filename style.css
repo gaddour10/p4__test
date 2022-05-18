@@ -291,7 +291,11 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
-
+#logo
+{
+    width: 100px;
+    height: 100px;
+}
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -299,6 +303,9 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    width: 240px;
+    height: 40px;
+
 }
 
 .navbar-brand img {
