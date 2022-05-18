@@ -306,7 +306,10 @@ a:hover {
     
 
 }
-
+.links
+{
+    margin-bottom: 10px;
+}
 .navbar-brand img {
     max-height: 200px;
     margin: 0 5px 0 0;
