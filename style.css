@@ -303,8 +303,7 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
-    width: 240px;
-    height: 40px;
+    
 
 }
 
@@ -312,6 +311,8 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 220px;
+    height: 40px;
 }
 
 .navbar-brand img[src$=svg] {
