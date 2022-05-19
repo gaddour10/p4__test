@@ -16,7 +16,7 @@ BrowserMatch \bMSI[E] !no-gzip !gzip-only-text/html
  Header set Cache-Control "max-age=2592000, public"
  </FilesMatch>
  <FilesMatch "\.(js)$">
- Header set Cache-Control "max-age=2592000, private"
+ Header set Cache-Control "max-age=2590000, private"
  </FilesMatch>
 <filesMatch "\.(html|htm)$">
 Header set Cache-Control "max-age=7200, public"
