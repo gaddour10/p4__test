@@ -91,7 +91,7 @@ a:hover {
 }
 
 .texture-paper::before {
-    background: url("img/texture-paper.webp");
+    background: url("img/texture-paper.png");
     background-size: 280px 280px;
 }
 
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .d-bloc {
-    color: black;
+    color: rgba(255, 255, 255, .7);
 }
 
 .d-bloc button:hover {
@@ -133,7 +133,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: black;
+    color: rgba(255, 255, 255, .6);
 }
 
 .d-bloc .a-btn:hover,
@@ -291,11 +291,7 @@ a:hover {
     margin-bottom: 0;
     z-index: 1;
 }
-#logo
-{
-    width: 100px;
-    height: 100px;
-}
+
 .navbar-brand {
     height: auto;
     padding: 3px 15px;
@@ -303,19 +299,12 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
-    
+}
 
-}
-.links
-{
-    margin-bottom: 10px;
-}
 .navbar-brand img {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
-    width: 220px;
-    height: 40px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -662,7 +651,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #171717!important;
+    color: #575757!important;
 }
 
 .container {
@@ -688,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 15px;
+    font-size: 11px;
 }
 
 .tight-width-whitespace {
@@ -703,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #171717!important;
+    color: #FFFFFF!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -747,13 +736,11 @@ h4 {
 }
 
 .white {
-    color: #171717!important;
+    color: #FFFFFF!important;
 }
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    width: 270px;
-    height: 270px;
 }
 
 .portfolio-row {
@@ -788,12 +775,12 @@ h4 {
 }
 
 .tc-white {
-    color: #FBE4DB!important;
+    color: #F3976C!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #171717!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -831,11 +818,11 @@ h4 {
 }
 
 .bg-banniere {
-    background-image: url("img/agence-la-panthere.webp");
+    background-image: url("img/agence-la-panthere.jpg");
 }
 
 .bg-presentation {
-    background-image: url("img/image-de-presentation.webp");
+    background-image: url("img/image-de-presentation.bmp");
 }
 
 @media (max-width: 1024px) {
