@@ -134,7 +134,7 @@ a:hover {
 .d-bloc h5 a,
 .d-bloc h6 a,
 .d-bloc p a {
-    color: rgba(255, 255, 255, .6);
+    color: black !important;
 }
 
 .d-bloc .a-btn:hover,
@@ -738,6 +738,7 @@ h4 {
 
 .white {
     color: #171717 !important;
+    font-size: 15px;
 }
 
 .portfolio-thumb {
