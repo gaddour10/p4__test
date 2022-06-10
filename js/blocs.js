@@ -7,8 +7,8 @@ const configs = [
     {width: '100%', rename: {suffix: '@5x'}}
 ]
 const images = [
-  path.join(__dirname, '1-small.webp'),
-  path.join(__dirname, 'logo-small.webp')
+  path.join(__dirname, 'img/1-small.webp'),
+  path.join(__dirname, 'img/logo-small.webp')
 ]
 
 generateResponsiveImages(images, configs)
