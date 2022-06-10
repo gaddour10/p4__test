@@ -8075,3 +8075,7 @@ button.close {
         display: none !important
     }
 }
+#acceuil
+{
+    display: none;
+}
