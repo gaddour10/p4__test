@@ -57,11 +57,10 @@
     #acceuil-hidden {
         display: flex;
         margin: auto;
-        padding: auto;
         padding-right: 100px;
         padding-left: 150px
     }
-    ;
+    
     #form_1 {
         padding-left: 20px;
     }
